@@ -5,6 +5,6 @@ public class mul
         int a = 15;
         int b = 9;
         
-        System.out.println("Product is: " + a*b);
+        System.out.println("Product is: " + (a*b));
     }
 }
